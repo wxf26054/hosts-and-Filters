@@ -1,0 +1,22 @@
+0.0.0.0 ceye.io
+0.0.0.0 dnslog.link
+0.0.0.0 dnslog.cn
+0.0.0.0 dnslog.io
+0.0.0.0 tu4.org
+0.0.0.0 awvsscan119.autoverify.cn
+0.0.0.0 burpcollaborator.net
+0.0.0.0 s0x.cn
+0.0.0.0 7yx77.com
+0.0.0.0 i2678.cc
+#屏蔽微软广告
+0.0.0.0 c.msn.com
+0.0.0.0 ntp.msn.com
+0.0.0.0 ntp.msn.cn
+0.0.0.0 assets.msn.cn
+#0.0.0.0 api.msn.com
+0.0.0.0 browser.events.data.msn.com
+#0.0.0.0 edge.activity.windows.com
+0.0.0.0 img-s-msn-com.akamaized.net
+#Google翻译
+203.208.46.145 translate.google.com
+203.208.46.145 translate.googleapis.com
