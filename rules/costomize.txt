@@ -732,3 +732,4 @@ s.hao.360.com
 ||ads.us.criteo.com
 /googleads/
 /yanlutong/
+/adnxs/
