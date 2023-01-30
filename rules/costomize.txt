@@ -733,3 +733,6 @@ s.hao.360.com
 /googleads/
 /yanlutong/
 /adnxs/
+#屏蔽bandisoft广告
+/bandi.so/
+
