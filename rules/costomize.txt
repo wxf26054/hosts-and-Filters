@@ -735,4 +735,5 @@ s.hao.360.com
 /adnxs/
 #屏蔽bandisoft广告
 /bandi.so/
+/rendimportinaugurate/
 
