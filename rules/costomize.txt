@@ -739,3 +739,4 @@ s.hao.360.com
 #屏蔽迅雷游戏
 ||act-youxi.xunlei.com
 /act-youxi/
+@@||www.iconfont.cn
