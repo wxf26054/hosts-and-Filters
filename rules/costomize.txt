@@ -740,3 +740,7 @@ s.hao.360.com
 ||act-youxi.xunlei.com
 /act-youxi/
 @@||www.iconfont.cn
+#屏蔽百度/必应推广广告
+||hnsoft.yunibn.com
+/yunibn/
+/hnsoft/
