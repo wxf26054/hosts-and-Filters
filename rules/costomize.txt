@@ -744,3 +744,5 @@ s.hao.360.com
 ||hnsoft.yunibn.com
 /yunibn/
 /hnsoft/
+||3rd.softeasy.xyz
+/softeasy/
