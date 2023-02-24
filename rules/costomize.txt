@@ -746,3 +746,7 @@ s.hao.360.com
 /hnsoft/
 ||3rd.softeasy.xyz
 /softeasy/
+/beizi.biz/
+/ad-scope/
+||api.htp.ad-scope.com.cn
+/hubcloud.com/
