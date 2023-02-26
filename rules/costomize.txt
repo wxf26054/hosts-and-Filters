@@ -689,7 +689,7 @@ s.hao.360.com
 #屏蔽彩虹游戏和51游戏
 /caihong.com/
 /51img/
-/51.com/
+||51.com^
 #屏蔽Admamax广告
 /admamax/
 /jckjgs/
@@ -751,4 +751,3 @@ s.hao.360.com
 ||api.htp.ad-scope.com.cn
 /hubcloud.com/
 #
-@@||/susong51/
