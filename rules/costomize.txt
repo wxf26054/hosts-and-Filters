@@ -756,3 +756,5 @@ s.hao.360.com
 @@||count.ddooo.com
 @@||list.live.xunlei.com
 @@||short-video.kakamobi.cn
+@@|teams.events.data.microsoft.com
+
