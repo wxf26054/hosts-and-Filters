@@ -750,11 +750,11 @@ s.hao.360.com
 /ad-scope/
 ||api.htp.ad-scope.com.cn
 /hubcloud.com/
-#
 @@||wecourt01.susong51.com
 /fbi.gov/
 @@||count.ddooo.com
 @@||list.live.xunlei.com
 @@||short-video.kakamobi.cn
 @@|teams.events.data.microsoft.com
-
+/civicscience.com/
+/fbi/
