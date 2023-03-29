@@ -762,4 +762,6 @@ s.hao.360.com
 /6lugq4fy.com/
 #屏蔽万能高速下载器
 /iwakaka/
+/iwakaka.net.wsglb0.com/
+/iwakaka.net/
 
