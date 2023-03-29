@@ -760,3 +760,6 @@ s.hao.360.com
 /fbi/
 /dui88/
 /6lugq4fy.com/
+#屏蔽万能高速下载器
+/iwakaka/
+
