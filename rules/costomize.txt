@@ -765,3 +765,8 @@ s.hao.360.com
 /iwakaka.net.wsglb0.com/
 /iwakaka.net/
 @@||s3-us-east-1.ossfiles.com
+/hmlvnjj/
+/promote.hm-itc.com/
+/hm-itc/
+/promote/
+
