@@ -787,3 +787,4 @@ s.hao.360.com
 /jtyzvkt/
 /zgbxxffww/
 ||repository.certum.pl^$important
+@@||softdown01.rbread04.cn
