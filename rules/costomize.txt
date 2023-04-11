@@ -787,3 +787,6 @@ s.hao.360.com
 /jtyzvkt/
 /zgbxxffww/
 ||repository.certum.pl^$important
+#放行下载站正常链接
+@@||down1.lwgzc.com
+@@||softdown01.rbread04.cn
