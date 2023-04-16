@@ -790,3 +790,4 @@ s.hao.360.com
 #放行下载站正常链接
 @@||down1.lwgzc.com
 @@||softdown01.rbread04.cn
+@@||v6.onewsvod.com
