@@ -816,3 +816,4 @@ s.hao.360.com
 @@||cc1.cctvjfa.com
 /cc1/
 /cctvjfa/
+/adtianshi/
