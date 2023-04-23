@@ -818,3 +818,4 @@ s.hao.360.com
 /cctvjfa/
 /adtianshi/
 #屏蔽腾讯视频广告
+/v.smtcdns.com/
