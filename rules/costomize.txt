@@ -816,5 +816,9 @@ s.hao.360.com
 @@||cc1.cctvjfa.com
 /cc1/
 /cctvjfa/
+<<<<<<< HEAD
 #屏蔽腾讯视频广告
 ||vm.gtimg.cn
+=======
+/adtianshi/
+>>>>>>> d7f05da45faf827e007804810a1aecd7cfc11435
