@@ -821,3 +821,5 @@ s.hao.360.com
 /v.smtcdns.com/
 #放行小米应用商店资源
 @@||a.market.xiaomi.com
+#屏蔽赌博网站
+/wmd9v/
