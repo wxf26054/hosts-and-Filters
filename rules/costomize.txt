@@ -823,3 +823,4 @@ s.hao.360.com
 @@||a.market.xiaomi.com
 #屏蔽赌博网站
 /wmd9v/
+||blog.hotfixcdn.com
