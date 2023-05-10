@@ -827,3 +827,5 @@ s.hao.360.com
 #屏蔽虚假游戏广告
 /sxplywl.cn/
 softdown01.rbread04.cn
+#屏蔽抖音广告
+/ad-sign/
