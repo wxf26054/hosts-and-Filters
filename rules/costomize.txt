@@ -829,3 +829,7 @@ s.hao.360.com
 softdown01.rbread04.cn
 #屏蔽抖音广告
 /ad-sign/
+#钉钉相关域名
+@@||app4860.eapps.dingtalkcloud.com
+@@||app4290.eapps.dingtalkcloud.com
+@@||app4298.eapps.dingtalkcloud.com
