@@ -835,3 +835,8 @@ softdown01.rbread04.cn
 @@||app4298.eapps.dingtalkcloud.com
 #屏蔽广告链接
 /soft991.cn/
+#屏蔽网络分析
+/analytics/
+/analyze/
+/analytik/
+
