@@ -20,6 +20,7 @@
 ||rq.upgrade.cmpc.cmcm.com
 /cmcm/
 ||munion.baidu.com
+||/mss0/
 ||pos.baidu.com
 ||s3m6.nzwgs.com^$important
 @@||jspassport.ssl.qhimg.com^$important
