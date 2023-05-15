@@ -31,6 +31,7 @@
 @@||api.browser.miui.com^$important
 @@||ssl-cdn.static.browser.mi-img.com^$important
 @@||u.api.look.360.cn^$important
+@@||papi.look.360.cn^$important
 @@||info.pinyin.sogou.com^$important
 @@||thirdwx.qlogo.cn^$important
 @@||click.mz.simba.taobao.com^$important
