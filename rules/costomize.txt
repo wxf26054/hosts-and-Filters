@@ -717,6 +717,7 @@ s.hao.360.com
 /gifshow.com/
 /8ziben.com/
 /cl2009.com/
+/rzjingyouaa/
 /api-e189.21cn.com/
 #屏蔽小鸟壁纸
 /birdpaper/
@@ -841,4 +842,3 @@ softdown01.rbread04.cn
 /analytics/
 /analyze/
 /analytik/
-
