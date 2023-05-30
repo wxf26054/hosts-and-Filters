@@ -822,6 +822,10 @@ s.hao.360.com
 /adtianshi/
 #屏蔽腾讯视频广告
 /v.smtcdns.com/
+/vd6.l.qq.com/
+/vd6.l/
+/vi.l.qq.com/
+/vi.l/
 #放行小米应用商店资源
 @@||a.market.xiaomi.com
 #屏蔽赌博网站
