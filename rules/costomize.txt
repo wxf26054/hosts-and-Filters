@@ -844,6 +844,8 @@ softdown01.rbread04.cn
 /gslb.borui.yunfancdn.net/
 /soft991.cn/
 /wshtgame/
+/mssdk-bu/
+/bytedance.com.queniuum.com/
 #屏蔽网络分析
 /analytics/
 /analyze/
