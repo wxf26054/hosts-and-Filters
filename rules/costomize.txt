@@ -855,6 +855,13 @@ softdown01.rbread04.cn
 /qtlcdn.com/
 /shark-tracer.netease.com/
 /shark-tracer/
+/fp2e7a.wpc.phicdn.net/
+/imp-toutiao-data.37.com.cn/
+/37.com.cn/
+/37.com/
+/fp2e7a/
+/wpc.phicdn.net/
+/imp-toutiao/
 #屏蔽网络分析
 /analytics/
 /analyze/
