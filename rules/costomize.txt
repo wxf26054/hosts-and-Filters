@@ -846,6 +846,10 @@ softdown01.rbread04.cn
 /wshtgame/
 /mssdk-bu/
 /bytedance.com.queniuum.com/
+/k128-mzstatic.gslb.ksyuncdn.com/
+/k128-mzstatic/
+/gslb.ksyuncdn.com/
+/mzstatic/
 #屏蔽网络分析
 /analytics/
 /analyze/
