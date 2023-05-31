@@ -853,6 +853,8 @@ softdown01.rbread04.cn
 /ioshost.qtlcdn.com/
 /ioshost/
 /qtlcdn.com/
+/shark-tracer.netease.com/
+/shark-tracer/
 #屏蔽网络分析
 /analytics/
 /analyze/
