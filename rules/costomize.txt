@@ -850,6 +850,9 @@ softdown01.rbread04.cn
 /k128-mzstatic/
 /gslb.ksyuncdn.com/
 /mzstatic/
+/ioshost.qtlcdn.com/
+/ioshost/
+/qtlcdn.com/
 #屏蔽网络分析
 /analytics/
 /analyze/
