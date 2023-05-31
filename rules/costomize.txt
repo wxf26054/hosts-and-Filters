@@ -841,6 +841,7 @@ softdown01.rbread04.cn
 @@||app4290.eapps.dingtalkcloud.com
 @@||app4298.eapps.dingtalkcloud.com
 #屏蔽广告链接
+/gslb.borui.yunfancdn.net/
 /soft991.cn/
 #屏蔽网络分析
 /analytics/
