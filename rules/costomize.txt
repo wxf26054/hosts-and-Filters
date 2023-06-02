@@ -875,3 +875,5 @@ softdown01.rbread04.cn
 /analyze/
 /analytik/
 @@||support.apple.com^$important
+@@||ssl.qhimg.com^
+@@||market.xiaomi.com^
