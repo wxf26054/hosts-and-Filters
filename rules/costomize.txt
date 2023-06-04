@@ -865,9 +865,6 @@ softdown01.rbread04.cn
 /wpc.phicdn.net/
 /imp-toutiao/
 /cddp-track/
-/na61-na62.wagbridge.alibaba.tanx.com.gds.alibabadns.com/
-/na61-na62/
-/wagbridge/
 /tnc3-alisc1.zijieapi.com.queniuyk.com/
 /alisc1/
 /tnc3/
