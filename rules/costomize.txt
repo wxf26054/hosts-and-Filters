@@ -820,6 +820,8 @@ s.hao.360.com
 /cc1/
 /cctvjfa/
 /adtianshi/
+/lxpmgjy/
+/rjxz1/
 #屏蔽腾讯视频广告
 /v.smtcdns.com/
 /vd6.l.qq.com/
