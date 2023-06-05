@@ -861,7 +861,6 @@ softdown01.rbread04.cn
 /37.com.cn/
 /37.com/
 /fp2e7a/
-/wpc.phicdn.net/
 /imp-toutiao/
 /cddp-track/
 /tnc3-alisc1.zijieapi.com.queniuyk.com/
