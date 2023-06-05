@@ -850,7 +850,6 @@ softdown01.rbread04.cn
 /bytedance.com.queniuum.com/
 /k128-mzstatic.gslb.ksyuncdn.com/
 /k128-mzstatic/
-/gslb.ksyuncdn.com/
 /mzstatic/
 /ioshost.qtlcdn.com/
 /ioshost/
