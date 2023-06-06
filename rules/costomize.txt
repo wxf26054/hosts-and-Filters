@@ -709,8 +709,11 @@ s.hao.360.com
 /flmgr/
 #新浪地址接口
 @@||pv.sohu.com 
-#MSN NTP服务
-@@||ntp.msn.cn
+#MSN广告
+||ntp.msn.cn
+||ntp.msn.com
+/ntp.msn/
+#
 ||/51xiasheji/
 /44ky.vip/
 ||61.147.221.1$all
