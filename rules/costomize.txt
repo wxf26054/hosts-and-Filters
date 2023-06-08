@@ -856,9 +856,6 @@ softdown01.rbread04.cn
 /k128-mzstatic.gslb.ksyuncdn.com/
 /k128-mzstatic/
 /mzstatic/
-/ioshost.qtlcdn.com/
-/ioshost/
-/qtlcdn.com/
 /shark-tracer.netease.com/
 /shark-tracer/
 /fp2e7a.wpc.phicdn.net/
