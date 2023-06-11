@@ -712,7 +712,7 @@ s.hao.360.com
 @@||pv.sohu.com 
 #MSN广告
 ||ntp.msn.cn
-||ntp.msn.com
+ntp.msn.com
 /ntp.msn/
 #
 ||/51xiasheji/
