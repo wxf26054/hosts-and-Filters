@@ -711,10 +711,9 @@ s.hao.360.com
 #新浪地址接口
 @@||pv.sohu.com 
 #MSN广告
-||ntp.msn.cn
-ntp.msn.com
-/ntp.msn/
-#
+#ntp.msn.cn
+#ntp.msn.com
+#/ntp.msn/
 ||/51xiasheji/
 /44ky.vip/
 ||61.147.221.1$all
