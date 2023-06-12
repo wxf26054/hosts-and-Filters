@@ -1,1 +1,3 @@
-1
+# Hosts And Filters
+
+AdGuard屏蔽规则
